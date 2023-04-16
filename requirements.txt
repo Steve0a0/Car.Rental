@@ -1,0 +1,8 @@
+Django==3.2.18
+mysqlclient
+Pillow==9.4.0
+PyMySQL==1.0.3
+pytz==2023.2
+djangorestframework==3.12.4
+django-request==1.6.2
+boto3
